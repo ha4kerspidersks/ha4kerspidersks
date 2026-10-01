@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="92" viewBox="0 0 96 92">
+  <defs>
+    <linearGradient id="bg_servicenow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#151B26" />
+      <stop offset="100%" stop-color="#0B0E14" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card Base -->
+  <rect width="96" height="92" rx="12" fill="url(#bg_servicenow)" stroke="#81b441" stroke-opacity="0.35" stroke-width="1.1" />
+  <rect x="1" y="1" width="94" height="90" rx="11" fill="none" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1" />
+
+  <!-- Logo (36x36) -->
+  <svg x="30" y="14" width="36" height="36" viewBox="0 0 64 64">
+    
+  <path d="M32.195 3.312A32.267 32.267 0 0 0 9.949 58.883a6.346 6.346 0 0 0 8.264.43 23.035 23.035 0 0 1 27.445 0 6.364 6.364 0 0 0 8.389-.43A32.267 32.267 0 0 0 32.195 3.312m-.18 48.275a15.632 15.632 0 0 1-16.133-16.026 16.044 16.044 0 1 1 32.07 0 15.614 15.614 0 0 1-16.026 16.026" fill-rule="evenodd" fill="#81b5a1" />
+
+  </svg>
+
+  <!-- Label -->
+  <text x="48" y="79" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="600" fill="#E2E8F0" letter-spacing="-0.1">
+    ServiceNow
+  </text>
+</svg>

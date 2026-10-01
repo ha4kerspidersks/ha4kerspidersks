@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="92" viewBox="0 0 96 92">
+  <defs>
+    <linearGradient id="bg_saviynt" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#151B26" />
+      <stop offset="100%" stop-color="#0B0E14" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card Base -->
+  <rect width="96" height="92" rx="12" fill="url(#bg_saviynt)" stroke="#00f2fe" stroke-opacity="0.35" stroke-width="1.1" />
+  <rect x="1" y="1" width="94" height="90" rx="11" fill="none" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1" />
+  <circle cx="85" cy="11" r="4" fill="#FFDB70" opacity="0.25" />
+  <circle cx="85" cy="11" r="2.2" fill="#FFDB70" />
+  <!-- Logo (36x36) -->
+  <svg x="30" y="14" width="36" height="36" viewBox="-2 0 32 32">
+    
+  <path d="M21.0186 11.984L28.0137 8.03008L14.0028 0L7.04932 3.98762L21.0186 11.984Z" fill="#00f2fe"/>
+  <path d="M14.0148 15.9429L0.0956832 7.97531L0 8.03014V15.8885L7.0109 19.9017L14.0148 15.9429Z" fill="#00d2fe"/>
+  <path d="M20.98 27.8981L7.01081 19.9017L0.00683594 23.8606L14.0265 31.8857L20.98 27.8981Z" fill="#38bdf8"/>
+  <path d="M14.0148 15.9429L27.9336 23.9105L28.0137 23.8645V15.9882L21.0186 11.984L14.0148 15.9429Z" fill="#0284c7"/>
+
+  </svg>
+
+  <!-- Label -->
+  <text x="48" y="79" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#FFEDB3" letter-spacing="-0.1">
+    Saviynt
+  </text>
+</svg>

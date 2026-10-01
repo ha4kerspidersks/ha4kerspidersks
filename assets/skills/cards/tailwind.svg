@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="92" viewBox="0 0 96 92">
+  <defs>
+    <linearGradient id="bg_tailwind" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#151B26" />
+      <stop offset="100%" stop-color="#0B0E14" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card Base -->
+  <rect width="96" height="92" rx="12" fill="url(#bg_tailwind)" stroke="#06b6d4" stroke-opacity="0.35" stroke-width="1.1" />
+  <rect x="1" y="1" width="94" height="90" rx="11" fill="none" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1" />
+
+  <!-- Logo (36x36) -->
+  <svg x="30" y="14" width="36" height="36" viewBox="0 0 24 24" fill="#06B6D4">
+    
+  <path d="M12.001,4.8c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 C13.666,10.618,15.027,12,18.001,12c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C16.337,6.182,14.976,4.8,12.001,4.8z M6.001,12c-3.2,0-5.2,1.6-6,4.8c1.2-1.6,2.6-2.2,4.2-1.8c0.913,0.228,1.565,0.89,2.288,1.624 c1.177,1.194,2.538,2.576,5.512,2.576c3.2,0,5.2-1.6,6-4.8c-1.2,1.6-2.6,2.2-4.2,1.8c-0.913-0.228-1.565-0.89-2.288-1.624 C10.337,13.382,8.976,12,6.001,12z"/>
+
+  </svg>
+
+  <!-- Label -->
+  <text x="48" y="79" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#E2E8F0" letter-spacing="-0.1">
+    Tailwind
+  </text>
+</svg>

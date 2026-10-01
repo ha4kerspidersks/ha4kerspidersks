@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="92" viewBox="0 0 96 92">
+  <defs>
+    <linearGradient id="bg_ai_workflows" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#151B26" />
+      <stop offset="100%" stop-color="#0B0E14" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card Base -->
+  <rect width="96" height="92" rx="12" fill="url(#bg_ai_workflows)" stroke="#06b6d4" stroke-opacity="0.35" stroke-width="1.1" />
+  <rect x="1" y="1" width="94" height="90" rx="11" fill="none" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1" />
+
+  <!-- Logo (36x36) -->
+  <svg x="30" y="14" width="36" height="36" viewBox="0 0 128 128">
+    
+  <defs>
+    <linearGradient id="aiw-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#0891b2"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="48" fill="#18181b" stroke="url(#aiw-grad)" stroke-width="4"/>
+  <path d="M 46,48 L 60,64 L 46,80" fill="none" stroke="#22d3ee" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="68" y1="80" x2="84" y2="80" stroke="#06b6d4" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="64" cy="16" r="6" fill="#22d3ee"/>
+  <circle cx="112" cy="64" r="6" fill="#06b6d4"/>
+  <circle cx="64" cy="112" r="6" fill="#0891b2"/>
+  <circle cx="16" cy="64" r="6" fill="#22d3ee"/>
+
+  </svg>
+
+  <!-- Label -->
+  <text x="48" y="79" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="9.5" font-weight="600" fill="#E2E8F0" letter-spacing="-0.1">
+    AI Workflows
+  </text>
+</svg>

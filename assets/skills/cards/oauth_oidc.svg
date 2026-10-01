@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="92" viewBox="0 0 96 92">
+  <defs>
+    <linearGradient id="bg_oauth_oidc" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#151B26" />
+      <stop offset="100%" stop-color="#0B0E14" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card Base -->
+  <rect width="96" height="92" rx="12" fill="url(#bg_oauth_oidc)" stroke="#a855f7" stroke-opacity="0.35" stroke-width="1.1" />
+  <rect x="1" y="1" width="94" height="90" rx="11" fill="none" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1" />
+  <circle cx="85" cy="11" r="4" fill="#FFDB70" opacity="0.25" />
+  <circle cx="85" cy="11" r="2.2" fill="#FFDB70" />
+  <!-- Logo (36x36) -->
+  <svg x="30" y="14" width="36" height="36" viewBox="0 0 24 24" fill="#A855F7">
+    
+  <path d="M14.54.889l-3.63 1.773v18.17c-4.15-.52-7.27-2.78-7.27-5.5 0-2.58 2.8-4.75 6.63-5.41v-2.31C4.42 8.322 0 11.502 0 15.332c0 3.96 4.74 7.24 10.91 7.78l3.63-1.71V.888m.64 6.724v2.31c1.43.25 2.71.7 3.76 1.31l-1.97 1.11 7.03 1.53-.5-5.21-1.87 1.06c-1.74-1.06-3.96-1.81-6.45-2.11z"/>
+
+  </svg>
+
+  <!-- Label -->
+  <text x="48" y="79" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="9.5" font-weight="600" fill="#FFEDB3" letter-spacing="-0.1">
+    OAuth &amp; SAML
+  </text>
+</svg>
