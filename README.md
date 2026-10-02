@@ -1,16 +1,10 @@
 <div align="center">
 
-<a href="https://subhajitkar.com">
-  <img src="assets/profile/subhajit-kar-avatar.png" width="168" height="168" alt="Subhajit Kar - Portfolio Profile" />
-</a>
-
 # SUBHAJIT KAR
 
 ## IAM / IGA &bull; CYBERSECURITY &bull; CLOUD &bull; AI
 
 **Senior IAM Assistant Manager &middot; Deloitte Cyber &amp; Strategic Risk**
-
-Architecting enterprise **Saviynt IGA** governance, automated JML lifecycles, and large-scale identity data reconciliation across **300,000+ monthly identities**.
 
 <br/>
 
@@ -24,82 +18,67 @@ Architecting enterprise **Saviynt IGA** governance, automated JML lifecycles, an
 
 ---
 
-<div align="center">
-  <a href="https://subhajitkar.com/?tab=iam">
-    <img src="assets/tech-stack-header.svg" alt="3D Technology Ecosystem - 56 Enterprise Technologies Across 8 Disciplines" width="100%"/>
-  </a>
-</div>
-
-<br/>
-
-<h3 align="center">IAM / IGA</h3>
+## Technology Stack
 
 <div align="center">
 
-<a href="https://subhajitkar.com/?tab=iam" title="Saviynt [Primary Expertise]"><img src="assets/skills/cards/saviynt.svg" width="98" alt="Saviynt" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Entra ID [Primary Expertise]"><img src="assets/skills/cards/entra_id.svg" width="98" alt="Entra ID" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Active Directory [Primary Expertise]"><img src="assets/skills/cards/active_directory.svg" width="98" alt="Active Directory" /></a> <a href="https://subhajitkar.com/?tab=iam" title="SoD &amp; RBAC [Primary Expertise]"><img src="assets/skills/cards/sod_matrix.svg" width="98" alt="SoD &amp; RBAC" /></a> <a href="https://subhajitkar.com/?tab=iam" title="JML Lifecycle [Primary Expertise]"><img src="assets/skills/cards/jml_workflows.svg" width="98" alt="JML Lifecycle" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Okta [Primary Expertise]"><img src="assets/skills/cards/okta.svg" width="98" alt="Okta" /></a> <a href="https://subhajitkar.com/?tab=iam" title="OAuth &amp; SAML [Primary Expertise]"><img src="assets/skills/cards/oauth_oidc.svg" width="98" alt="OAuth &amp; SAML" /></a> <a href="https://subhajitkar.com/?tab=iam" title="FIDO2 &amp; MFA [Primary Expertise]"><img src="assets/skills/cards/fido2_mfa.svg" width="98" alt="FIDO2 &amp; MFA" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Saviynt"><img src="assets/skills/cards/saviynt.svg" width="98" alt="Saviynt" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Microsoft Entra ID"><img src="assets/skills/cards/entra_id.svg" width="98" alt="Microsoft Entra ID" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Active Directory"><img src="assets/skills/cards/active_directory.svg" width="98" alt="Active Directory" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="SoD &amp; RBAC"><img src="assets/skills/cards/sod_matrix.svg" width="98" alt="SoD &amp; RBAC" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="JML Workflows"><img src="assets/skills/cards/jml_workflows.svg" width="98" alt="JML Workflows" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Okta"><img src="assets/skills/cards/okta.svg" width="98" alt="Okta" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="OAuth &amp; SAML"><img src="assets/skills/cards/oauth_oidc.svg" width="98" alt="OAuth &amp; SAML" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="FIDO2 &amp; MFA"><img src="assets/skills/cards/fido2_mfa.svg" width="98" alt="FIDO2 &amp; MFA" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="300K+ Data Reconciliation"><img src="assets/skills/cards/reconciliation.svg" width="98" alt="300K+ Data Reconciliation" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Python"><img src="assets/skills/cards/python.svg" width="98" alt="Python" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Snowflake"><img src="assets/skills/cards/snowflake.svg" width="98" alt="Snowflake" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="PostgreSQL"><img src="assets/skills/cards/postgresql.svg" width="98" alt="PostgreSQL" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="MySQL"><img src="assets/skills/cards/mysql.svg" width="98" alt="MySQL" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="MongoDB"><img src="assets/skills/cards/mongodb.svg" width="98" alt="MongoDB" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Redis"><img src="assets/skills/cards/redis.svg" width="98" alt="Redis" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Agentic AI"><img src="assets/skills/cards/agentic_ai.svg" width="98" alt="Agentic AI" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Model Context Protocol (MCP)"><img src="assets/skills/cards/mcp.svg" width="98" alt="Model Context Protocol (MCP)" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="LLM Engineering"><img src="assets/skills/cards/llm_engineering.svg" width="98" alt="LLM Engineering" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="AI Workflows"><img src="assets/skills/cards/ai_workflows.svg" width="98" alt="AI Workflows" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="AWS"><img src="assets/skills/cards/aws.svg" width="98" alt="AWS" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Microsoft Azure"><img src="assets/skills/cards/azure.svg" width="98" alt="Microsoft Azure" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Google Firebase"><img src="assets/skills/cards/firebase.svg" width="98" alt="Google Firebase" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Vercel"><img src="assets/skills/cards/vercel.svg" width="98" alt="Vercel" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Docker"><img src="assets/skills/cards/docker.svg" width="98" alt="Docker" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Jenkins"><img src="assets/skills/cards/jenkins.svg" width="98" alt="Jenkins" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Git"><img src="assets/skills/cards/git.svg" width="98" alt="Git" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="GitHub Enterprise"><img src="assets/skills/cards/github.svg" width="98" alt="GitHub Enterprise" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Linux"><img src="assets/skills/cards/linux.svg" width="98" alt="Linux" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="GNU Bash"><img src="assets/skills/cards/bash.svg" width="98" alt="GNU Bash" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Vite"><img src="assets/skills/cards/vite.svg" width="98" alt="Vite" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Visual Studio Code"><img src="assets/skills/cards/vscode.svg" width="98" alt="Visual Studio Code" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Zero Trust Architecture"><img src="assets/skills/cards/zero_trust.svg" width="98" alt="Zero Trust Architecture" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="CyberArk PAM"><img src="assets/skills/cards/cyberark.svg" width="98" alt="CyberArk PAM" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="OWASP"><img src="assets/skills/cards/owasp.svg" width="98" alt="OWASP" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="PortSwigger Burp Suite"><img src="assets/skills/cards/burpsuite.svg" width="98" alt="PortSwigger Burp Suite" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Wireshark"><img src="assets/skills/cards/wireshark.svg" width="98" alt="Wireshark" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Java"><img src="assets/skills/cards/java.svg" width="98" alt="Java" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="JavaScript"><img src="assets/skills/cards/javascript.svg" width="98" alt="JavaScript" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="TypeScript"><img src="assets/skills/cards/typescript.svg" width="98" alt="TypeScript" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Node.js"><img src="assets/skills/cards/nodejs.svg" width="98" alt="Node.js" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="React"><img src="assets/skills/cards/react.svg" width="98" alt="React" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Next.js"><img src="assets/skills/cards/nextjs.svg" width="98" alt="Next.js" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="FastAPI"><img src="assets/skills/cards/fastapi.svg" width="98" alt="FastAPI" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Flask"><img src="assets/skills/cards/flask.svg" width="98" alt="Flask" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Postman"><img src="assets/skills/cards/postman.svg" width="98" alt="Postman" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Three.js"><img src="assets/skills/cards/threejs.svg" width="98" alt="Three.js" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="GSAP"><img src="assets/skills/cards/gsap.svg" width="98" alt="GSAP" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Tailwind CSS"><img src="assets/skills/cards/tailwind.svg" width="98" alt="Tailwind CSS" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="HTML5"><img src="assets/skills/cards/html.svg" width="98" alt="HTML5" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="CSS3"><img src="assets/skills/cards/css.svg" width="98" alt="CSS3" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="C / C++"><img src="assets/skills/cards/cplusplus.svg" width="98" alt="C / C++" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Workday HRMS"><img src="assets/skills/cards/workday.svg" width="98" alt="Workday HRMS" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="ServiceNow"><img src="assets/skills/cards/servicenow.svg" width="98" alt="ServiceNow" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Atlassian Jira"><img src="assets/skills/cards/jira.svg" width="98" alt="Atlassian Jira" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="SOX 404 Compliance"><img src="assets/skills/cards/sox_compliance.svg" width="98" alt="SOX 404 Compliance" /></a>
+<a href="https://subhajitkar.com/?tab=iam" title="Figma"><img src="assets/skills/cards/figma.svg" width="98" alt="Figma" /></a>
 
-</div>
-
-<h3 align="center">Data &amp; Automation</h3>
-
-<div align="center">
-
-<a href="https://subhajitkar.com/?tab=iam" title="Identity Recon [Primary Expertise]"><img src="assets/skills/cards/reconciliation.svg" width="98" alt="Identity Recon" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Python [Primary Expertise]"><img src="assets/skills/cards/python.svg" width="98" alt="Python" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Snowflake"><img src="assets/skills/cards/snowflake.svg" width="98" alt="Snowflake" /></a> <a href="https://subhajitkar.com/?tab=iam" title="PostgreSQL"><img src="assets/skills/cards/postgresql.svg" width="98" alt="PostgreSQL" /></a> <a href="https://subhajitkar.com/?tab=iam" title="MySQL"><img src="assets/skills/cards/mysql.svg" width="98" alt="MySQL" /></a> <a href="https://subhajitkar.com/?tab=iam" title="MongoDB"><img src="assets/skills/cards/mongodb.svg" width="98" alt="MongoDB" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Redis"><img src="assets/skills/cards/redis.svg" width="98" alt="Redis" /></a>
-
-</div>
-
-<h3 align="center">AI &amp; Agentic AI</h3>
-
-<div align="center">
-
-<a href="https://subhajitkar.com/?tab=iam" title="Agentic AI"><img src="assets/skills/cards/agentic_ai.svg" width="98" alt="Agentic AI" /></a> <a href="https://subhajitkar.com/?tab=iam" title="MCP"><img src="assets/skills/cards/mcp.svg" width="98" alt="MCP" /></a> <a href="https://subhajitkar.com/?tab=iam" title="LLM Eng"><img src="assets/skills/cards/llm_engineering.svg" width="98" alt="LLM Eng" /></a> <a href="https://subhajitkar.com/?tab=iam" title="AI Workflows"><img src="assets/skills/cards/ai_workflows.svg" width="98" alt="AI Workflows" /></a>
-
-</div>
-
-<h3 align="center">Cloud</h3>
-
-<div align="center">
-
-<a href="https://subhajitkar.com/?tab=iam" title="AWS"><img src="assets/skills/cards/aws.svg" width="98" alt="AWS" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Azure"><img src="assets/skills/cards/azure.svg" width="98" alt="Azure" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Firebase"><img src="assets/skills/cards/firebase.svg" width="98" alt="Firebase" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Vercel"><img src="assets/skills/cards/vercel.svg" width="98" alt="Vercel" /></a>
-
-</div>
-
-<h3 align="center">DevOps</h3>
-
-<div align="center">
-
-<a href="https://subhajitkar.com/?tab=iam" title="Docker"><img src="assets/skills/cards/docker.svg" width="98" alt="Docker" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Jenkins"><img src="assets/skills/cards/jenkins.svg" width="98" alt="Jenkins" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Git"><img src="assets/skills/cards/git.svg" width="98" alt="Git" /></a> <a href="https://subhajitkar.com/?tab=iam" title="GitHub"><img src="assets/skills/cards/github.svg" width="98" alt="GitHub" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Linux"><img src="assets/skills/cards/linux.svg" width="98" alt="Linux" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Bash"><img src="assets/skills/cards/bash.svg" width="98" alt="Bash" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Vite"><img src="assets/skills/cards/vite.svg" width="98" alt="Vite" /></a> <a href="https://subhajitkar.com/?tab=iam" title="VS Code"><img src="assets/skills/cards/vscode.svg" width="98" alt="VS Code" /></a>
-
-</div>
-
-<h3 align="center">Security</h3>
-
-<div align="center">
-
-<a href="https://subhajitkar.com/?tab=iam" title="Zero Trust"><img src="assets/skills/cards/zero_trust.svg" width="98" alt="Zero Trust" /></a> <a href="https://subhajitkar.com/?tab=iam" title="CyberArk"><img src="assets/skills/cards/cyberark.svg" width="98" alt="CyberArk" /></a> <a href="https://subhajitkar.com/?tab=iam" title="OWASP"><img src="assets/skills/cards/owasp.svg" width="98" alt="OWASP" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Burp Suite"><img src="assets/skills/cards/burpsuite.svg" width="98" alt="Burp Suite" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Wireshark"><img src="assets/skills/cards/wireshark.svg" width="98" alt="Wireshark" /></a>
-
-</div>
-
-<h3 align="center">Programming</h3>
-
-<div align="center">
-
-<a href="https://subhajitkar.com/?tab=iam" title="Java"><img src="assets/skills/cards/java.svg" width="98" alt="Java" /></a> <a href="https://subhajitkar.com/?tab=iam" title="JavaScript"><img src="assets/skills/cards/javascript.svg" width="98" alt="JavaScript" /></a> <a href="https://subhajitkar.com/?tab=iam" title="TypeScript"><img src="assets/skills/cards/typescript.svg" width="98" alt="TypeScript" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Node.js"><img src="assets/skills/cards/nodejs.svg" width="98" alt="Node.js" /></a> <a href="https://subhajitkar.com/?tab=iam" title="React"><img src="assets/skills/cards/react.svg" width="98" alt="React" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Next.js"><img src="assets/skills/cards/nextjs.svg" width="98" alt="Next.js" /></a> <a href="https://subhajitkar.com/?tab=iam" title="FastAPI"><img src="assets/skills/cards/fastapi.svg" width="98" alt="FastAPI" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Flask"><img src="assets/skills/cards/flask.svg" width="98" alt="Flask" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Postman"><img src="assets/skills/cards/postman.svg" width="98" alt="Postman" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Three.js"><img src="assets/skills/cards/threejs.svg" width="98" alt="Three.js" /></a> <a href="https://subhajitkar.com/?tab=iam" title="GSAP"><img src="assets/skills/cards/gsap.svg" width="98" alt="GSAP" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Tailwind"><img src="assets/skills/cards/tailwind.svg" width="98" alt="Tailwind" /></a> <a href="https://subhajitkar.com/?tab=iam" title="HTML5"><img src="assets/skills/cards/html.svg" width="98" alt="HTML5" /></a> <a href="https://subhajitkar.com/?tab=iam" title="CSS3"><img src="assets/skills/cards/css.svg" width="98" alt="CSS3" /></a> <a href="https://subhajitkar.com/?tab=iam" title="C++"><img src="assets/skills/cards/cplusplus.svg" width="98" alt="C++" /></a>
-
-</div>
-
-<h3 align="center">Enterprise</h3>
-
-<div align="center">
-
-<a href="https://subhajitkar.com/?tab=iam" title="Workday"><img src="assets/skills/cards/workday.svg" width="98" alt="Workday" /></a> <a href="https://subhajitkar.com/?tab=iam" title="ServiceNow"><img src="assets/skills/cards/servicenow.svg" width="98" alt="ServiceNow" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Jira"><img src="assets/skills/cards/jira.svg" width="98" alt="Jira" /></a> <a href="https://subhajitkar.com/?tab=iam" title="SOX 404"><img src="assets/skills/cards/sox_compliance.svg" width="98" alt="SOX 404" /></a> <a href="https://subhajitkar.com/?tab=iam" title="Figma"><img src="assets/skills/cards/figma.svg" width="98" alt="Figma" /></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <sub><span style="color:#FFDB70;">★ Gold micro-indicator</span> signifies verified <b>Primary Professional Expertise</b> directly central to Deloitte enterprise delivery.</sub>
 </div>
 
 ---
