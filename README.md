@@ -1,24 +1,30 @@
 <div align="center">
-
-# SUBHAJIT KAR
-
-## IAM / IGA &bull; CYBERSECURITY &bull; CLOUD &bull; AI
-
-**Senior IAM Assistant Manager &middot; Deloitte Cyber &amp; Strategic Risk**
+  <img src="assets/hero-banner.svg" alt="Subhajit Kar - Senior IAM Assistant Manager - Enterprise Identity Governance &amp; Data Analytics" width="100%" />
+</div>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-subhajitkar.com-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black)](https://subhajitkar.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhajit_Kar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajit-kar/)
-[![GitHub](https://img.shields.io/badge/GitHub-ha4kerspidersks-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ha4kerspidersks)
-[![Medium](https://img.shields.io/badge/Medium-@ha4ker__spider__sks-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ha4ker_spider_sks)
-[![X](https://img.shields.io/badge/X-@Ha4ker__spider-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ha4ker_spider)
-
+<div align="center">
+  <a href="https://subhajitkar.com">
+    <img src="https://img.shields.io/badge/Portfolio-subhajitkar.com-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/subhajit-kar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Subhajit_Kar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://github.com/ha4kerspidersks">
+    <img src="https://img.shields.io/badge/GitHub-ha4kerspidersks-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>&nbsp;
+  <a href="https://medium.com/@ha4ker__spider__sks">
+    <img src="https://img.shields.io/badge/Medium-@ha4ker__spider__sks-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>&nbsp;
+  <a href="https://x.com/Ha4ker_spider">
+    <img src="https://img.shields.io/badge/X-@Ha4ker__spider-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </div>
 
 ---
 
-## Technology Stack
+## Tech Stack
 
 <div align="center">
 
