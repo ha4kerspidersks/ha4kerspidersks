@@ -36,11 +36,21 @@
 
 <br/>
 
-## 🌃 My contribution city
+<!-- 📊 DEVELOPER ANALYTICS — Engineering Activity & Production Telemetry -->
+<img src="assets/developer-analytics.svg" alt="Developer Analytics — Engineering activity at a glance" width="100%"/>
 
-*Every commit builds another tower — rebuilt automatically every day.*
+<details>
+<summary><b>🔍 Deep-Dive: Architectural Systems &amp; Engineering Signals</b> · <i>Traceable portfolio &amp; GitHub telemetry</i></summary>
+<br/>
 
-<img src="profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
+> ### Enterprise Identity Governance &amp; Multi-Agent Telemetry
+> - **Identity Scale**: Reconciling 300,000+ enterprise identities monthly across 9 global regulatory zones (US, EMEA, APAC).
+> - **Defect Elimination**: 80–90% reduction in identity mismatch defects through Python automated reconciliation pipelines.
+> - **Operational Remediations**: 250+ ServiceNow RITMs resolved via root-cause workflow automation.
+> - **Test &amp; Code Assurance**: Enforced 90% automated test coverage across custom connector engines and role-mining models.
+> - **Autonomous Multi-Agent Architecture**: Direct integration of 56 production technologies across IAM, Cloud, DevSecOps, and Agentic AI.
+
+</details>
 
 <br/><br/>
 

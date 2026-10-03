@@ -1,4 +1,4 @@
-name: 3D Contribution City 🌃
+name: Developer Analytics 📊
 
 on:
   schedule:
@@ -6,6 +6,8 @@ on:
   workflow_dispatch:          # Run manually from Actions tab
   push:
     branches: [main]
+    paths:
+      - "scripts/generate_developer_analytics.py"
 
 permissions:
   contents: write
@@ -13,18 +15,21 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-3d-contribution
+    name: generate-developer-analytics
     steps:
       - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push Contribution SVGs
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Generate Developer Analytics SVG
+        run: |
+          python3 scripts/generate_developer_analytics.py
+      - name: Commit & Push Updated Analytics SVG
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A profile-3d-contrib
-          if git commit -m "chore(actions): regenerate 3d contribution city [skip ci]"; then
+          git add assets/developer-analytics.svg
+          if git commit -m "chore(actions): regenerate developer analytics telemetry [skip ci]"; then
             git push
           fi
