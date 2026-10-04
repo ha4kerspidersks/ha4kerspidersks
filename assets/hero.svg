@@ -140,7 +140,7 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
   <text class="sgm fu" x="64" y="392" font-size="18" fill="#8d93ab" style="animation-delay:2.5s">Architecting scalable Zero-Trust Identity governance,</text>
   <text class="sgm fu" x="64" y="418" font-size="18" fill="#8d93ab" style="animation-delay:2.62s">enterprise IGA platforms &amp; secure cloud systems.</text>
 
-  <!-- METADATA ROW: 4 distinct items with independent layout areas & uniform spacing -->
+  <!-- LEFT PANEL METADATA: 2x2 Grid strictly bounded within left content panel (x < 370px, boundary 540px) -->
   <g class="fu" style="animation-delay:3.0s">
     <g transform="translate(72,453)">
       <path d="M0-8a6 6 0 0 1 6 6c0 4.5-6 10-6 10s-6-5.5-6-10a6 6 0 0 1 6-6z" fill="none" stroke="#22d3ee" stroke-width="1.8"/>
@@ -149,25 +149,25 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
     <text class="jb" x="88" y="458" font-size="14" fill="#8d93ab">Kolkata, India</text>
   </g>
   <g class="fu" style="animation-delay:3.15s">
-    <g transform="translate(242,453)">
+    <g transform="translate(262,453)">
       <rect x="-7" y="-5" width="14" height="11" rx="2" fill="none" stroke="#a78bfa" stroke-width="1.8"/>
       <path d="M-3-5v-2.5h6V-5" fill="none" stroke="#a78bfa" stroke-width="1.8"/>
     </g>
-    <text class="jb" x="258" y="458" font-size="14" fill="#8d93ab">Enterprise</text>
+    <text class="jb" x="278" y="458" font-size="14" fill="#8d93ab">Enterprise</text>
   </g>
   <g class="fu" style="animation-delay:3.3s">
-    <g transform="translate(378,453)">
+    <g transform="translate(72,488)">
       <path d="M0-8l2.4 5 5.4.6-4 3.7 1.1 5.4L0 4 -4.9 6.7-3.8 1.3-7.8-2.4l5.4-.6z" fill="none" stroke="#f472b6" stroke-width="1.7" stroke-linejoin="round"/>
     </g>
-    <text class="jb" x="394" y="458" font-size="14" fill="#8d93ab">700K+ Identities</text>
+    <text class="jb" x="88" y="493" font-size="14" fill="#8d93ab">700K+ Identities</text>
   </g>
   <g class="fu" style="animation-delay:3.45s">
-    <g transform="translate(564,453)">
+    <g transform="translate(262,488)">
       <path d="M-5-7h10v5a5 5 0 0 1-10 0v-5z" fill="none" stroke="#fbbf24" stroke-width="1.6"/>
       <path d="M-5-5h-2a2 2 0 0 0-2 2v1a2 2 0 0 0 2 2h2 M5-5h2a2 2 0 0 1 2 2v1a2 2 0 0 1-2 2h-2" fill="none" stroke="#fbbf24" stroke-width="1.3"/>
       <path d="M0-2v5 M-3.5 3h7" fill="none" stroke="#fbbf24" stroke-width="1.6" stroke-linecap="round"/>
     </g>
-    <text class="jb" x="580" y="458" font-size="14" fill="#8d93ab">13 Awards</text>
+    <text class="jb" x="278" y="493" font-size="14" fill="#8d93ab">13 Awards</text>
   </g>
 </g>
 
