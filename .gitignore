@@ -11,3 +11,8 @@ credentials.json
 secrets.json
 service-account*.json
 *.secret
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
